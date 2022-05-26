@@ -1,0 +1,13 @@
+#foto-perfil {
+    border-radius: 360px;
+    height: 100px;
+    width: 100px;
+}
+
+.itemLista {
+    margin-left: 30px;
+}
+
+#divLista {
+    display: flex;
+}
